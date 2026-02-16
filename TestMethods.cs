@@ -12,7 +12,7 @@
 
         public static bool FindNumberInSortedList(int target, in List<int> list) => false;
 
-        public static int FindPrime(in List<int> list) => 0;
+        public static int FindPrime(in Stack<int> list) => 0;
 
         public static bool IsPrime(int n) => false;
 
